@@ -47,6 +47,6 @@ This app is **not a medical tool**. It is intended for educational and self-awar
 ---
 
 ## 👨‍💻 Developed by
-**Your Name**  
+**RATHISH G**  
 Biomedical Engineer | AI Enthusiast  
-📫 [Email or Portfolio Link]
+📫 [rathishgg@gmail.com]
