@@ -3,3 +3,7 @@ transformers
 torch
 pandas
 scikit-learn
+librosa
+sounddevice
+scipy
+joblib
